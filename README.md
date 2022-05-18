@@ -1,8 +1,8 @@
 # README.md
 
-👋 Hi, This is Diego Galván
+Hi, This is Diego Galván
 
-👀 I’m interested in developing my skills as a Software Engineer
+I’m interested in developing my skills as a Software Engineer
 
 I’m currently learning different technologies and several languages to improve my expertise
 
